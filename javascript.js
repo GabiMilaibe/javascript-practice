@@ -24,7 +24,7 @@
 //   }
 // }
 //
-// permission(25);
+// permission(2 5);
 
 // falsy values
 // 0 -0 Nan
@@ -33,6 +33,7 @@
 // null
 // undefined
 // void = undefined
+// boolean
 //
 //***LOOP
 //for (var i = 0; i < 10; i++) {
