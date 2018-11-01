@@ -29,7 +29,7 @@ stayButton.style.display = 'none';
 showStatus();
 
 newGameButton.addEventListener('click', function(){
-  gameStarted = false;
+  gameStarted = true;
   gameOver = false;
   playerWon = false;
 
