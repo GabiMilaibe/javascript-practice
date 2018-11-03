@@ -117,7 +117,7 @@ function checkForEndOfGame(){
 }
 
 function getNextCard(){
-  return deck.shift();
+  return deck.unshift();
 };
 
 function getCardString(card){
