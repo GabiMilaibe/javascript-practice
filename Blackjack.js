@@ -3,6 +3,9 @@
 // 16.10.2018
 //
 
+alert('esse');
+
+
 let suits = ['Hearts','Clubs', 'Diamonds', 'Spades'];
 let values = ['Ace', 'King', 'Queen', 'Jack',
     'Ten', 'Nine', 'Eight', 'Seven', 'Six',
