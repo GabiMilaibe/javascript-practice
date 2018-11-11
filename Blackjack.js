@@ -117,11 +117,13 @@ function checkForEndOfGame(){
 }
 
 function getNextCard(){
-  return deck.unshift();
+  return deck.shift();
 };
+// i have change the unshift
 
 function getCardString(card){
     return card.values + ' of ' + card.suits;
+
 };
 
 function getScore(cardArray) {
